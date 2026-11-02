@@ -1,0 +1,4 @@
+# Runtime dependencies for the web app and the recommender.
+pandas>=2.2,<4
+scikit-learn>=1.5,<2
+streamlit>=1.59,<2

@@ -1,0 +1,30 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local virtual environment (machine-specific, large)
+.venv/
+venv/
+env/
+
+# Personal chat data: contains diabetic level, allergies and budget.
+# Never commit it. The folder is created automatically at runtime.
+saved_chats/
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors and operating systems
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log

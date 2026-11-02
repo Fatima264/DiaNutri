@@ -1,0 +1,6 @@
+# Development: tests and the educational notebook.
+-r requirements.txt
+jupyter>=1.1,<2
+ipykernel>=6.29,<8
+matplotlib>=3.8,<4
+seaborn>=0.13,<1
